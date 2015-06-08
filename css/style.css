@@ -1,0 +1,13 @@
+#Container {
+width:100%;
+min-width:1000px;
+min-height:600px;
+border-style:groove;
+border-width:1;
+}
+
+#Header {
+width:100%;
+height:130px;
+background-size:cover;
+}
