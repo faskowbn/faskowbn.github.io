@@ -1,13 +1,23 @@
-#Container {
-width:100%;
-min-width:1000px;
-min-height:600px;
-border-style:groove;
-border-width:1;
+body {
+        background:url("https://raw.githubusercontent.com/faskowbn/faskowbn.github.io/master/images/10418356_10204712592600041_6563181181258620589_n.jpg");
+        background-size: cover;
+        background-position:center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
 }
 
-#Header {
-width:100%;
-height:130px;
-background-size:cover;
+h1 {
+	color:white;
 }
+
+#welcomeText {
+	font-family:"Arvo";
+	font-size: 32px;
+	text-shadow: 2px 2px 4px #000000;
+	border: 6px solid white;
+	display:inline;
+	position:absolute;
+	top: 385px;
+	right: 390px;
+}
+
